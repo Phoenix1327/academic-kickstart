@@ -67,7 +67,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "phoenix1994@foxmail.com"
+email = "phoenix1994@foxmail.com;phoenixyli@tencent.com;yan.li@cripac.ia.ac.cn"
 phone = "+86 10 62671188-35263"
 address = "Floor 5, 5F-NE 506, Tencent Building, No. 10 Xibeiwang East Road, Haidian District, Beijing, China."
 
@@ -80,8 +80,6 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fab", name = "Office Email", link = "phoenixyli@tencent.com"},
-  {icon = "envelope", icon_pack = "fab", name = "Academic Email", link = "yan.li@cripac.ia.ac.cn"},
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

@@ -14,7 +14,8 @@ weight = 60
 
 +++
 
-* [NIPS19] Transductive Zero-Shot Learning with Visual Structure Constraint. Ziyu Wan, Dongdong Chen, **Yan Li**, Junge Zhang, Yizhou Yu and Jing Liao.
-* [2019/08/13] Join Tencent Inc. as a senior research engineer.
-* [2019/07/22] One paper is accepted by ICCV 2019.
-* [2019/05/21] Successfully defend my PhD.
+* [NIPS19] "Transductive Zero-Shot Learning with Visual Structure Constraint." Ziyu Wan, Dongdong Chen, **Yan Li**, Junge Zhang, Yizhou Yu and Jing Liao.
+* [ICCV19] "Few-Shot Image Recognition with Knowledge Transfer." Zhimao Peng, Zechao Li, Junge Zhang, **Yan Li**, Guo-Jun Qi, Jinhui Tang.
+* [TPAMI19] "Mixed Supervised Object Detection with Robust Objectness Transfer." **Yan Li**, Junge Zhang, Kaiqi Huang, Jianguo Zhang.
+* [CVPR18 (Oral)] "Discriminative Learning of Latent Features for Zero-Shot Recognition." **Yan Li**, Junge Zhang, Jianguo Zhang, Kaiqi Huang.
+* [AAAI18] "Deep Semantic Structural Constraints for Zero-Shot Learning." **Yan Li**, Zhen Jia, Junge Zhang, Kaiqi Huang, Tieniu Tan.

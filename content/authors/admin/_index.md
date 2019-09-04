@@ -67,6 +67,12 @@ user_groups:
 - Visitors
 ---
 
-Yan Li is a senior research engineer at the Platform & Content Group (PCG) in Tencent Inc.
+I am currently a senior research engineer at the Platform & Content Group (PCG) in Tencent Inc.
 
-Before that, he received his PhD degree in Pattern Recognition and Intelligent System from Institute of Automation, Chinese Academy of Sciences in 2017 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ).
+Before that, I received my PhD degree in Pattern Recognition and Intelligent System from [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn) in 2019 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ) and my bachelor degree in Automation from [Tsinghua University](https://www.tsinghua.edu.cn/publish/auen/) in 2014.
+
+My previous research interests include image object recognition (classification/detection), zero/few-shot learning and weakly/semi supervised learning. My current work focuses on video-based recogntion task, such as video-based action recognition.
+
+Personal Email: phoenix1994@foxmail.com
+Office Email: phoenixyli@tencent.com
+Academic Email: yan.li@cripac.ia.ac.cn

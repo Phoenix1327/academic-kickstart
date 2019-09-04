@@ -73,10 +73,6 @@ Before that, I received my PhD degree in Pattern Recognition and Intelligent Sys
 
 My previous research interests include image object classification/detection, zero/few-shot learning and weakly/semi supervised learning. My current work focuses on video-based recogntion task, such as video-based action recognition.
 
-<font size=1>Personal Email: phoenix1994@foxmail.com</font>
-
-<font size=1>Office Email: phoenixyli@tencent.com</font>
-
-<font size=1>Academic Email: yan.li@cripac.ia.ac.cn</font>
+<font size=3>Personal Email: phoenix1994@foxmail.com</font>; <font size=3>Office Email: phoenixyli@tencent.com</font>; <font size=3>Academic Email: yan.li@cripac.ia.ac.cn</font>
 
 Feel free to contact me!

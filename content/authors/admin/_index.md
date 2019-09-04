@@ -67,4 +67,6 @@ user_groups:
 - Visitors
 ---
 
+Yan Li is a senior research engineer at the Platform & Content Group (PCG) in Tencent Inc.
 
+Before that, he received his PhD degree in Pattern Recognition and Intelligent System from Institute of Automation, Chinese Academy of Sciences in 2017 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ).

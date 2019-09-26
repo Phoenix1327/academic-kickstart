@@ -13,8 +13,8 @@ subtitle = ""
 weight = 65
 
 +++
-* AAAI 2020, PC member
-* CVPR 2019, Reviewer
-* ICCV 2019, Reviewer
+* AAAI2020, PC Member
+* CVPR2020, CVPR2019, Reviewer
+* ICCV2019, Reviewer
 * TMM, Reviewer
 * PR, Reviewer

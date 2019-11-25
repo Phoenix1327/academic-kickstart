@@ -14,7 +14,7 @@ weight = 35
 
 +++
 
-* [2019/09/04] One paper is accepted by <font color=red>NeurIPS 2019</font>.
-* [2019/08/13] Join <font color=red>Tencent Inc</font>. as a Senior Research Engineer
-* [2019/07/22] One paper is accepted by <font color=red>ICCV 2019</font>.
-* [2019/05/21] Successfully defend my PhD.
+* [2019/09] One paper is accepted by <font color=red>NeurIPS 2019</font>.
+* [2019/08] Join <font color=red>Tencent Inc</font>. as a Senior Research Engineer
+* [2019/07] One paper is accepted by <font color=red>ICCV 2019</font>.
+* [2019/05] Successfully defend my PhD.

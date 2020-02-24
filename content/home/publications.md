@@ -14,7 +14,7 @@ weight = 60
 
 +++
 
-*<font size=3><font color=red>[CVPR2020]</font> "TEA: Temporal Excitation and Aggregration for Action Recognition." **Yan Li**, Bin Ji, Xintian Shi, Jianguo Zhang, Bin Kang, Limin Wang.
+* <font size=3><font color=red>[CVPR2020]</font> "TEA: Temporal Excitation and Aggregration for Action Recognition." **Yan Li**, Bin Ji, Xintian Shi, Jianguo Zhang, Bin Kang, Limin Wang.</font>
 * <font size=3><font color=red>[NeurIPS19]</font> "Transductive Zero-Shot Learning with Visual Structure Constraint." Ziyu Wan, Dongdong Chen, **Yan Li**, Junge Zhang, Yizhou Yu and Jing Liao. [[arxiv](https://arxiv.org/abs/1901.01570)]</font>
 * <font size=3><font color=red>[ICCV19]</font> "Few-Shot Image Recognition with Knowledge Transfer." Zhimao Peng, Zechao Li, Junge Zhang, **Yan Li**, Guo-Jun Qi, Jinhui Tang.</font>
 * <font size=3><font color=red>[TPAMI19]</font> "Mixed Supervised Object Detection with Robust Objectness Transfer." **Yan Li**, Junge Zhang, Kaiqi Huang, Jianguo Zhang. [[arxiv with suppl](https://arxiv.org/abs/1802.09778)] [[paper](https://ieeexplore.ieee.org/abstract/document/8304628)]</font>

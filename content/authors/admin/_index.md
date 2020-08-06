@@ -14,7 +14,7 @@ role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Platform & Content Group, Tencent Inc.
+- name: Platform & Content Group, Tencent.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,9 +51,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/yan-li-413b8654
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Phoenix1327
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +74,4 @@ I am currently a senior research engineer at the Platform & Content Group (PCG) 
 
 Before that, I received my PhD degree in Pattern Recognition and Intelligent System from [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn) in 2019 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ) and my bachelor degree in Automation from [Department of Automation, Tsinghua University](https://www.tsinghua.edu.cn/publish/auen/) in 2014.
 
-My previous research interests include image object classification/detection, zero/few-shot learning and weakly/semi supervised learning. My current work focuses on video-based recogntion task, such as action recognition and video understanding.
+My previous research interests include image object classification/detection, zero/few-shot learning and weakly/semi supervised learning. My current work focuses on video-based recognition task, such as action recognition and video understanding.

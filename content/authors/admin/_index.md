@@ -14,11 +14,11 @@ role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Platform & Content Group, Tencent.
+- name: Kuaishou.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image object recognition/detection/segmentation, video-based action recognition, zero/few-shot learning and weakly/semi supervised learning.
+bio: My research interests include image object recognition/detection/segmentation, video-based action recognition, zero/few-shot learning and weakly/semi supervised learning. My current focus is multimodal learning for video understanding.
 
 interests:
 - Artificial Intelligence
@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a senior research engineer at the Platform & Content Group (PCG) in Tencent Inc.
+I am currently a senior research engineer in Kuaishou.
 
 Before that, I received my PhD degree in Pattern Recognition and Intelligent System from [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn) in 2019 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ) and my bachelor degree in Automation from [Department of Automation, Tsinghua University](https://www.tsinghua.edu.cn/publish/auen/) in 2014.
 
-My previous research interests include image object classification/detection, zero/few-shot learning and weakly/semi supervised learning. My current work focuses on video-based recognition task, such as action recognition and video understanding.
+My previous research interests include image object classification/detection, zero/few-shot learning and weakly/semi supervised learning. My current work focuses on multimodal learning for video understanding.

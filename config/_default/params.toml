@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "phoenix1994@foxmail.com;liyan26@kuaishou.com;yan.li@cripac.ia.ac.cn"
-phone = "+86 10 62671188-835263"
-address = "Floor 4, B-288, B2 Building, Dongsheng Technology Park, Haidian District, Beijing, China."
+email = "phoenix1994@foxmail.com;liyan.1994@bytedance.com;yan.li@cripac.ia.ac.cn"
+phone = "+86 XXXX"
+address = "Building 3, Zijin Digital Park, No. 18, Zhongguancun South 4th Street, Haidian District, Beijing."
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""

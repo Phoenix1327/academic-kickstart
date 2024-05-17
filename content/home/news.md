@@ -14,6 +14,7 @@ weight = 35
 
 +++
 
+* [2024/04] Join <font color=red>Tiktok</font> as a Senior Research Engineer.
 * [2023/07] Two papers are accepted by <font color=red>ICCV 2023</font>. Congratulations to Xuehan and Wenjie.
 * [2021/03] Join <font color=red>Kuaishou</font> as a Senior Research Engineer.
 * [2020/02] One paper is accepted by <font color=red>CVPR 2020</font>.

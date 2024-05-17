@@ -14,7 +14,7 @@ role: Senior Research Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Kuaishou.
+- name: TikTok.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a senior research engineer in Kuaishou.
+I am currently a senior research engineer in Tiktok.
 
 Before that, I received my PhD degree in Pattern Recognition and Intelligent System from [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn) in 2019 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ) and my bachelor degree in Automation from [Department of Automation, Tsinghua University](https://www.tsinghua.edu.cn/publish/auen/) in 2014.
 

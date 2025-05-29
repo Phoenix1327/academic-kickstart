@@ -6,7 +6,7 @@ widget = "blank"
 active = true
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Recent News"
+title = "Professional Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -14,11 +14,14 @@ weight = 35
 
 +++
 
-* [2024/04] Join <font color=red>Tiktok</font> as a Senior Research Engineer.
-* [2023/07] Two papers are accepted by <font color=red>ICCV 2023</font>. Congratulations to Xuehan and Wenjie.
-* [2021/03] Join <font color=red>Kuaishou</font> as a Senior Research Engineer.
-* [2020/02] One paper is accepted by <font color=red>CVPR 2020</font>.
-* [2019/09] One paper is accepted by <font color=red>NeurIPS 2019</font>. Congratulations to Ziyu.
-* [2019/08] Join <font color=red>Tencent Inc</font>. as a Senior Research Engineer.
-* [2019/07] One paper is accepted by <font color=red>ICCV 2019</font>. Congratulations to Zhimao.
-* [2019/05] Successfully defend my PhD.
+- **Ph.D. Graduation**  
+  *2019.05*
+- **Tencent, PGC Group**  
+  *2019.08 – 2021.03*  
+  Video understanding
+- **Kuaishou, Advertising Algorithm Department**  
+  *2021.03 – 2024.03*  
+  Content understanding for advertising
+- **TikTok, Content Intelligence**  
+  *2024.04 – Present*  
+  Large vision language models and large recommendation models

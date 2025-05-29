@@ -13,7 +13,7 @@ subtitle = ""
 weight = 60
 
 +++
-
+* <font size=3><font color=red>[AAAI2024]</font> "LEARN: Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application." Jian Jia, Yipei Wang, **Yan Li**, Honggang Chen, Xuehan Bai, Zhaocheng Liu, Jian Liang, Quan Chen, Han Li, Peng Jiang, Kun Gai. </font >
 * <font size=3><font color=red>[ICCV2023]</font> "Cross-Domain Product Representation Learning for Rich-Content E-Commerce." Xuehan Bai, **Yan Li (co-first author)**, Yanhua Cheng, Wenjie Yang, Quan Chen, Han Li. [[arxiv](https://arxiv.org/pdf/2308.05550.pdf)] [[code](https://github.com/adxcreative/COPE)]</font >
 * <font size=3><font color=red>[ICCV2023]</font> "Cross-view Semantic Alignment for Livestreaming Product Recognition." Wenjie Yang, Yiyi Chen (co-first author), **Yan Li**, Yanhua Cheng, Xudong Liu, Quan Chen, Han Li. [[arxiv](https://arxiv.org/pdf/2308.04912.pdf)] [[code](https://github.com/adxcreative/RICE)]</font >
 * <font size=3><font color=red>[CVPR2020]</font> "TEA: Temporal Excitation and Aggregration for Action Recognition." **Yan Li**, Bin Ji, Xintian Shi, Jianguo Zhang, Bin Kang, Limin Wang. [[arxiv_with_suppl](https://arxiv.org/abs/2004.01398)] [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_TEA_Temporal_Excitation_and_Aggregation_for_Action_Recognition_CVPR_2020_paper.html)] [[code](https://github.com/Phoenix1327/tea-action-recognition)]</font >

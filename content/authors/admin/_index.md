@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Engineer
+role: Tech Lead Manager, Content AI
 
 # Organizations/Affiliations
 organizations:
-- name: TikTok.
+- name: TikTok, Core Recommendation.
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image object recognition/detection/segmentation, video-based action recognition, zero/few-shot learning and weakly/semi supervised learning. My current focus is multimodal learning for video understanding.
+bio: I am currently a Tech Lead Manager at TikTok, leading the Content AI team within the Core Recommendation department. My team focuses on empowering recommendation businesses with advanced content understanding capabilities. My current research interests include Multimodal Large Language Models (MLLMs), universal video representations, and next-generation recommendation systems powered by Generative AI.
 
 interests:
-- Artificial Intelligence
+- Multimodal Large Language Models
+- Recommendation Systems
 - Computer Vision
-- Deep Learning
+- Artificial Intelligence
 
 education:
   courses:

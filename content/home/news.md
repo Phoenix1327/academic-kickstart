@@ -18,10 +18,10 @@ weight = 35
   *2019.05*
 - **Tencent, PGC Group**  
   *2019.08 – 2021.03*  
-  Video understanding
+  Video Understanding
 - **Kuaishou, Advertising Algorithm Department**  
   *2021.03 – 2024.03*  
-  Content understanding for advertising
-- **TikTok, Content Intelligence**  
+  Content Understanding for Advertising
+- **TikTok, Content AI, Core Recommendation**  
   *2024.04 – Present*  
-  Large vision language models and large recommendation models
+  Content Understanding for Recommendation

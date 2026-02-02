@@ -71,8 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a senior research engineer in Tiktok.
+I am currently a Tech Lead Manager at TikTok, leading the Content AI team within the Core Recommendation department.
+
+My team focuses on empowering recommendation businesses with advanced content understanding capabilities. My current research interests include Multimodal Large Language Models (MLLMs), universal video representations, and next-generation recommendation systems powered by Generative AI.
 
 Before that, I received my PhD degree in Pattern Recognition and Intelligent System from [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn) in 2019 advised by [Kaiqi Huang](https://scholar.google.com/citations?user=caQ-OmYAAAAJ) and my bachelor degree in Automation from [Department of Automation, Tsinghua University](https://www.tsinghua.edu.cn/publish/auen/) in 2014.
-
-My previous research interests include image object classification/detection, zero/few-shot learning and weakly/semi supervised learning. My current work focuses on multimodal learning for video understanding.

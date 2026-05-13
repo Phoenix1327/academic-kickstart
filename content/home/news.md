@@ -22,10 +22,10 @@ weight = 35
   <small>*2019.08 – 2021.03*</small>  
   <small>Video action understanding</small>
   
-- **Kuaishou, Advertising Algorithm Department | Senior Algorithm Researcher**
+- **Kuaishou, Advertising Algorithm Department | Senior Algorithm Researcher**  
   <small>*2021.03 – 2024.03*</small>  
   <small>Ads/e-commerce understanding; LLM for recommendation</small>
   
-- **TikTok, Content AI, Core Recommendation | Tech Lead Manager**
+- **TikTok, Content AI, Core Recommendation | Tech Lead Manager**  
   <small>*2024.04 – Present*</small>  
   <small>Multimodal LLM & video representation; Supporting core & next-gen RecSys</small>

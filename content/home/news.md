@@ -16,12 +16,13 @@ weight = 35
 
 - **Ph.D. Graduation**  
   *2019.05*
-- **Tencent, PGC Group**  
+  Zero/Few-shot learning.
+- **Tencent, PCG Group | Computer Vision Researcher**  
   *2019.08 – 2021.03*  
-  Video Understanding
-- **Kuaishou, Advertising Algorithm Department**  
+  Research on temporal video action detection & recognition, deployed algorithms to content safety review and intelligent video editing systems.
+- **Kuaishou, Advertising Algorithm Department | Senior Algorithm Researcher**  
   *2021.03 – 2024.03*  
-  Content Understanding for Advertising
-- **TikTok, Content AI, Core Recommendation**  
+  Ads/e-commerce content understanding; Pioneered LLM for industrial recommendation.
+- **TikTok, Content AI, Core Recommendation | Tech Lead Manager**  
   *2024.04 – Present*  
-  Content Understanding for Recommendation
+  Multimodal LLM & universal video representation, supporting core recommendation and next-generation recommendation exploration.
